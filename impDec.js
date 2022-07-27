@@ -22,4 +22,4 @@ console.log(isSquareEven(5));
 //here isSquareEven ko aap as a function bhi call kar sakte ho reason stated below in Note
 
 //Note:- functions in js is "first class citizen" kyuki js variable and function mein koi bhed-bhaav nahi karta
-//matlab aap jiss tarike se function likh rahe ho ussi tarike se function bhi likh de jisse js ko problem nahi hoti
+//matlab aap jiss tarike se function likh rahe ho ussi tarike se function ko as a variable bhi likh de jisse js ko problem nahi hoti
